@@ -1,0 +1,11 @@
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\bin\Debug\Assessment 1 - Chapter 10 Programming Exercise.exe.config
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\bin\Debug\Assessment 1 - Chapter 10 Programming Exercise.exe
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\bin\Debug\Assessment 1 - Chapter 10 Programming Exercise.pdb
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.csprojAssemblyReference.cache
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment_1___Chapter_10_Programming_Exercise.Form1.resources
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment_1___Chapter_10_Programming_Exercise.Properties.Resources.resources
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.csproj.GenerateResource.cache
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.exe
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.pdb
+C:\Users\Paulp\source\repos\Assessment 1 - Chapter 10 Programming Exercise\Assessment 1 - Chapter 10 Programming Exercise\obj\Debug\Assessment 1 - Chapter 10 Programming Exercise.csprojResolveAssemblyReference.cache
